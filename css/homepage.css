@@ -1,0 +1,39 @@
+/* css/sidebar.css */
+
+.container {
+    width: 470px;
+    height: 140px;
+    padding: 25px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border: 4px solid #ddd;
+    border-radius: 9px;
+    margin: 2px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .container:hover {
+    border-color: rgb(86, 128, 169);
+  }
+  
+  .container h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+  .container .icon {
+    font-size: 18px;
+  }
+  
+  .container p {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  
+  .container .additional-text {
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  
