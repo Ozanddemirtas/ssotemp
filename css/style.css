@@ -46,7 +46,7 @@ body {
   gap: 8px;
 }
 .logo_name {
-  font-size: 22px;
+  font-size: 18px;
   color: #333;
   font-weight: 500px;
   transition: all 0.3s ease;
@@ -136,17 +136,17 @@ body {
 }
 
 .sidebar_profile {
-  padding-top: 15px;
-  margin-top: 15px;
+  padding-top: 10px;
+  margin-top: 10px;
   gap: 15px;
   border-top: 2px solid rgba(0, 0, 0, 0.1);
 }
 .sidebar_profile .name {
-  font-size: 18px;
+  font-size: 12px;
   color: #333;
 }
 .sidebar_profile .email {
-  font-size: 15px;
+  font-size: 10px;
   color: #333;
 }
 
