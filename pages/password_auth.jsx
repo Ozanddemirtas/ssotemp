@@ -2,9 +2,9 @@ import React from "react";
 import { SecurityUser } from "./SecurityUser";
 import "../password_auth.scss";
 
-export const MacbookPro = () => {
+export const pw_auth = () => {
   return (
-    <div className="macbook-pro">
+    <div className="pw_auth">
       <div className="div">
         <div className="overlap-group">
           <img className="line" alt="Line" src="line-2.svg" />

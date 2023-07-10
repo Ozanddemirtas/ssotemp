@@ -1,9 +1,9 @@
 import React from "react";
 import "../notification.scss";
 
-export const MacbookPro = () => {
+export const notification = () => {
   return (
-    <div className="macbook-pro">
+    <div className="notification">
       <div className="div">
         <div className="overlap-group">
           <img className="line" alt="Line" src="line-2.svg" />

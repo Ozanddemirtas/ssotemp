@@ -4,9 +4,9 @@ import { Lock } from "./Lock";
 import { SecurityUser } from "./SecurityUser";
 import "../login.scss";
 
-export const MacbookPro = () => {
+export const login = () => {
   return (
-    <div className="macbook-pro">
+    <div className="login">
       <div className="div">
         <div className="overlap-group">
           <img className="line" alt="Line" src="line-2.svg" />

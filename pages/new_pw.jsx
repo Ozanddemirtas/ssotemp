@@ -2,9 +2,9 @@ import React from "react";
 import { Lock } from "./Lock";
 import "./style.css";
 
-export const MacbookPro = () => {
+export const new_pw = () => {
   return (
-    <div className="macbook-pro">
+    <div className="new_pw">
       <div className="div">
         <div className="overlap-group">
           <div className="overlap">

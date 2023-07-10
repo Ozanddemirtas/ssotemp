@@ -3,9 +3,9 @@ import { Frame } from "./Frame";
 import { SecurityUser } from "./SecurityUser";
 import "./forget_pw.scss";
 
-export const MacbookPro = () => {
+export const forget_pw = () => {
   return (
-    <div className="macbook-pro">
+    <div className="forget_pw">
       <div className="div">
         <div className="overlap-group">
           <img className="line" alt="Line" src="line-2.svg" />

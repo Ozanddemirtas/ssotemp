@@ -1,4 +1,4 @@
-.macbook-pro {
+.notification {
     background-color: #0070af;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,7 @@
     width: 100%;
   }
   
-  .macbook-pro .div {
+  .notification .div {
     background-color: #0070af;
     border: 1px none;
     height: 982px;
@@ -14,7 +14,7 @@
     width: 1512px;
   }
   
-  .macbook-pro .overlap-group {
+  .notification .overlap-group {
     background-color: #f2fbfe;
     border-radius: 20px;
     height: 500px;
@@ -24,7 +24,7 @@
     width: 1110px;
   }
   
-  .macbook-pro .line {
+  .notification .line {
     height: 420px;
     left: 555px;
     object-fit: cover;
@@ -33,7 +33,7 @@
     width: 1px;
   }
   
-  .macbook-pro .text-wrapper {
+  .notification .text-wrapper {
     color: #05347a;
     font-family: "Asap-Medium", Helvetica;
     font-size: 18px;
@@ -47,7 +47,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .burgan-mobil {
+  .notification .burgan-mobil {
     color: #2a2929;
     font-family: "Asap-Regular", Helvetica;
     font-size: 16px;
@@ -60,7 +60,7 @@
     width: 408px;
   }
   
-  .macbook-pro .span {
+  .notification .span {
     color: #2a2929;
     font-family: "Asap-Regular", Helvetica;
     font-size: 16px;
@@ -68,12 +68,12 @@
     letter-spacing: 0;
   }
   
-  .macbook-pro .text-wrapper-2 {
+  .notification .text-wrapper-2 {
     font-family: "Asap-Bold", Helvetica;
     font-weight: 700;
   }
   
-  .macbook-pro .ww {
+  .notification .ww {
     height: 390px;
     left: 683px;
     object-fit: cover;
@@ -82,7 +82,7 @@
     width: 284px;
   }
   
-  .macbook-pro .overlap {
+  .notification .overlap {
     background-image: url(./rectangle-2.svg);
     background-size: 100% 100%;
     height: 68px;
@@ -92,7 +92,7 @@
     width: 409px;
   }
   
-  .macbook-pro .text-wrapper-3 {
+  .notification .text-wrapper-3 {
     color: #ffffff;
     font-family: "Asap-SemiBold", Helvetica;
     font-size: 21px;
@@ -106,7 +106,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .div-wrapper {
+  .notification .div-wrapper {
     background-image: url(./rectangle-3.svg);
     background-size: 100% 100%;
     height: 68px;
@@ -116,7 +116,7 @@
     width: 409px;
   }
   
-  .macbook-pro .text-wrapper-4 {
+  .notification .text-wrapper-4 {
     color: #ffffff;
     font-family: "Asap-SemiBold", Helvetica;
     font-size: 21px;
@@ -130,7 +130,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .footer {
+  .notification .footer {
     background-color: transparent;
     height: 45px;
     left: 220px;
@@ -139,7 +139,7 @@
     width: 1081px;
   }
   
-  .macbook-pro .h-1 {
+  .notification .h-1 {
     color: #ffffff;
     font-family: "Montserrat-Medium", Helvetica;
     font-size: 24px;
@@ -151,7 +151,7 @@
     top: 0;
   }
   
-  .macbook-pro .text-wrapper-5 {
+  .notification .text-wrapper-5 {
     color: #ffffff;
     font-family: "Montserrat-MediumItalic", Helvetica;
     font-size: 12px;
@@ -164,7 +164,7 @@
     top: 30px;
   }
   
-  .macbook-pro .text-wrapper-6 {
+  .notification .text-wrapper-6 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 14px;
@@ -176,7 +176,7 @@
     top: 6px;
   }
   
-  .macbook-pro .text-wrapper-7 {
+  .notification .text-wrapper-7 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 14px;
@@ -188,7 +188,7 @@
     top: 6px;
   }
   
-  .macbook-pro .img {
+  .notification .img {
     height: 20px;
     left: 93px;
     object-fit: cover;
@@ -197,7 +197,7 @@
     width: 1px;
   }
   
-  .macbook-pro .header {
+  .notification .header {
     background-color: transparent;
     height: 63px;
     left: 214px;
@@ -206,7 +206,7 @@
     width: 1085px;
   }
   
-  .macbook-pro .text-wrapper-8 {
+  .notification .text-wrapper-8 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 13px;
@@ -218,7 +218,7 @@
     top: 47px;
   }
   
-  .macbook-pro .group {
+  .notification .group {
     height: 49px;
     left: 0;
     position: absolute;

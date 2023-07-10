@@ -1,4 +1,4 @@
-.macbook-pro {
+.login {
     background-color: #0070af;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,7 @@
     width: 100%;
   }
   
-  .macbook-pro .div {
+  .login .div {
     background-color: #0070af;
     border: 1px none;
     height: 982px;
@@ -14,7 +14,7 @@
     width: 1512px;
   }
   
-  .macbook-pro .overlap-group {
+  .login .overlap-group {
     background-color: #f2fbfe;
     border-radius: 20px;
     height: 500px;
@@ -24,7 +24,7 @@
     width: 1110px;
   }
   
-  .macbook-pro .line {
+  .login .line {
     height: 420px;
     left: 555px;
     object-fit: cover;
@@ -33,7 +33,7 @@
     width: 1px;
   }
   
-  .macbook-pro .overlap {
+  .login .overlap {
     background-image: url(./rectangle-2.svg);
     background-size: 100% 100%;
     height: 68px;
@@ -43,7 +43,7 @@
     width: 331px;
   }
   
-  .macbook-pro .text-wrapper {
+  .login .text-wrapper {
     color: #ffffff;
     font-family: "Asap-SemiBold", Helvetica;
     font-size: 21px;
@@ -57,7 +57,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .icon-qrkod-wrapper {
+  .login .icon-qrkod-wrapper {
     background-image: url(./rectangle-3.svg);
     background-size: 100% 100%;
     height: 68px;
@@ -67,7 +67,7 @@
     width: 68px;
   }
   
-  .macbook-pro .icon-qrkod {
+  .login .icon-qrkod {
     height: 38px;
     left: 15px;
     position: absolute;
@@ -75,7 +75,7 @@
     width: 38px;
   }
   
-  .macbook-pro .overlap-2 {
+  .login .overlap-2 {
     background-color: #ffffff;
     border: 1px solid;
     border-color: #e3e3e3;
@@ -87,7 +87,7 @@
     width: 411px;
   }
   
-  .macbook-pro .text-wrapper-2 {
+  .login .text-wrapper-2 {
     color: #a0a0a0;
     font-family: "Asap-Medium", Helvetica;
     font-size: 16px;
@@ -101,7 +101,7 @@
     width: 212px;
   }
   
-  .macbook-pro .vuesax-bold-frame {
+  .login .vuesax-bold-frame {
     height: 24px !important;
     left: 17px !important;
     position: absolute !important;
@@ -109,7 +109,7 @@
     width: 24px !important;
   }
   
-  .macbook-pro .img {
+  .login .img {
     height: 40px;
     left: 55px;
     object-fit: cover;
@@ -118,7 +118,7 @@
     width: 1px;
   }
   
-  .macbook-pro .overlap-3 {
+  .login .overlap-3 {
     background-color: #ffffff;
     border: 1px solid;
     border-color: #e3e3e3;
@@ -130,7 +130,7 @@
     width: 411px;
   }
   
-  .macbook-pro .vuesax-bold-lock {
+  .login .vuesax-bold-lock {
     height: 24px !important;
     left: 17px !important;
     position: absolute !important;
@@ -138,7 +138,7 @@
     width: 24px !important;
   }
   
-  .macbook-pro .text-wrapper-3 {
+  .login .text-wrapper-3 {
     color: #000000;
     font-family: "Asap-Regular", Helvetica;
     font-size: 14px;
@@ -152,7 +152,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .text-wrapper-4 {
+  .login .text-wrapper-4 {
     color: #000000;
     font-family: "Asap-Medium", Helvetica;
     font-size: 16px;
@@ -166,7 +166,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .line-2 {
+  .login .line-2 {
     height: 1px;
     left: 86px;
     object-fit: cover;
@@ -175,7 +175,7 @@
     width: 389px;
   }
   
-  .macbook-pro .text-wrapper-5 {
+  .login .text-wrapper-5 {
     color: #05347a;
     font-family: "Asap-Medium", Helvetica;
     font-size: 18px;
@@ -189,7 +189,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .burgan-bank-nternet {
+  .login .burgan-bank-nternet {
     color: #1b4961;
     font-family: "Asap-Regular", Helvetica;
     font-size: 14px;
@@ -202,7 +202,7 @@
     width: 415px;
   }
   
-  .macbook-pro .span {
+  .login .span {
     color: #1b4961;
     font-family: "Asap-Regular", Helvetica;
     font-size: 14px;
@@ -210,13 +210,13 @@
     letter-spacing: 0;
   }
   
-  .macbook-pro .text-wrapper-6 {
+  .login .text-wrapper-6 {
     font-family: "Asap-Italic", Helvetica;
     font-style: italic;
     text-decoration: underline;
   }
   
-  .macbook-pro .text-wrapper-7 {
+  .login .text-wrapper-7 {
     color: #000000;
     font-family: "Asap-Regular", Helvetica;
     font-size: 16px;
@@ -229,7 +229,7 @@
     white-space: nowrap;
   }
   
-  .macbook-pro .vuesax-bold-security {
+  .login .vuesax-bold-security {
     height: 24px !important;
     left: 615px !important;
     position: absolute !important;
@@ -237,7 +237,7 @@
     width: 24px !important;
   }
   
-  .macbook-pro .footer {
+  .login .footer {
     background-color: transparent;
     height: 45px;
     left: 220px;
@@ -246,7 +246,7 @@
     width: 1081px;
   }
   
-  .macbook-pro .h-1 {
+  .login .h-1 {
     color: #ffffff;
     font-family: "Montserrat-Medium", Helvetica;
     font-size: 24px;
@@ -258,7 +258,7 @@
     top: 0;
   }
   
-  .macbook-pro .text-wrapper-8 {
+  .login .text-wrapper-8 {
     color: #ffffff;
     font-family: "Montserrat-MediumItalic", Helvetica;
     font-size: 12px;
@@ -271,7 +271,7 @@
     top: 30px;
   }
   
-  .macbook-pro .text-wrapper-9 {
+  .login .text-wrapper-9 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 14px;
@@ -283,7 +283,7 @@
     top: 6px;
   }
   
-  .macbook-pro .text-wrapper-10 {
+  .login .text-wrapper-10 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 14px;
@@ -295,7 +295,7 @@
     top: 6px;
   }
   
-  .macbook-pro .line-3 {
+  .login .line-3 {
     height: 20px;
     left: 93px;
     object-fit: cover;
@@ -304,7 +304,7 @@
     width: 1px;
   }
   
-  .macbook-pro .header {
+  .login .header {
     background-color: transparent;
     height: 63px;
     left: 214px;
@@ -313,7 +313,7 @@
     width: 1085px;
   }
   
-  .macbook-pro .text-wrapper-11 {
+  .login .text-wrapper-11 {
     color: #ffffff;
     font-family: "Montserrat-SemiBold", Helvetica;
     font-size: 13px;
@@ -325,7 +325,7 @@
     top: 47px;
   }
   
-  .macbook-pro .group {
+  .login .group {
     height: 49px;
     left: 0;
     position: absolute;

@@ -1,9 +1,9 @@
 import React from "react";
 import "../security_question.scss";
 
-export const MacbookPro = () => {
+export const security_question = () => {
   return (
-    <div className="macbook-pro">
+    <div className="security_question">
       <div className="div">
         <div className="overlap-group">
           <div className="overlap">

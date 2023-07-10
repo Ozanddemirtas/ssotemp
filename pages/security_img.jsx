@@ -1,9 +1,9 @@
 import React from "react";
 import "../security_img.scss";
 
-export const MacbookPro = () => {
+export const security_img = () => {
   return (
-    <div className="macbook-pro">
+    <div className="security_img">
       <div className="div">
         <div className="overlap-group">
           <div className="overlap">
