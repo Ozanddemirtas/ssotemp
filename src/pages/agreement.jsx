@@ -1,5 +1,5 @@
 import React from "react";
-import "../agreement.scss";
+import "../css/agreement.css";
 
 export const agreement = () => {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import "../security_question.scss";
+import "../css/security_question.css";
 
 export const security_question = () => {
   return (

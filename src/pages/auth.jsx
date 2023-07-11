@@ -1,5 +1,5 @@
 import React from "react";
-import "../auth.scss";
+import "./css/auth.css";
 
 export const auth = () => {
   return (

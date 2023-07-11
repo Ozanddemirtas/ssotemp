@@ -1,6 +1,6 @@
 import React from "react";
 import { SecurityUser } from "./SecurityUser";
-import "../auth_confirm.scss";
+import "./auth_confirm.scss";
 
 export const auth_confirm = () => {
   return (

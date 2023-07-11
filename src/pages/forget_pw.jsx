@@ -1,7 +1,7 @@
 import React from "react";
 import { Frame } from "./Frame";
 import { SecurityUser } from "./SecurityUser";
-import "./forget_pw.scss";
+import "./css/forget_pw.css";
 
 export const forget_pw = () => {
   return (

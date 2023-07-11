@@ -1,6 +1,6 @@
 import React from "react";
 import { Lock } from "./Lock";
-import "./style.css";
+import "./css/new_pw.css";
 
 export const new_pw = () => {
   return (

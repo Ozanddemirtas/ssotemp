@@ -1,5 +1,5 @@
 import React from "react";
-import "../security_img.scss";
+import "./css/security_img.css";
 
 export const security_img = () => {
   return (

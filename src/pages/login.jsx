@@ -2,9 +2,9 @@ import React from "react";
 import { Frame } from "./Frame";
 import { Lock } from "./Lock";
 import { SecurityUser } from "./SecurityUser";
-import "../login.scss";
+import "./css/login.css";
 
-export const login = () => {
+export function Login() {
   return (
     <div className="login">
       <div className="div">
