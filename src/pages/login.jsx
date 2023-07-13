@@ -1,37 +1,31 @@
-import React from "react";
-import { Frame } from "./Frame";
-import { Lock } from "./Lock";
-import { SecurityUser } from "./SecurityUser";
-import "./css/login.css";
 
-export function Login() {
-  return (
-    <div className="login">
-      <div className="div">
-        <div className="overlap-group">
-          <img className="line" alt="Line" src="line-2.svg" />
-          <div className="overlap">
-            <div className="text-wrapper">GİRİŞ YAP</div>
+
+    <div class="login">
+      <div class="div">
+        <div class="overlap-group">
+          <img class="line" alt="Line" src="line-2.svg" />
+          <div class="overlap">
+            <div class="text-wrapper">GİRİŞ YAP</div>
           </div>
-          <div className="icon-qrkod-wrapper">
-            <img className="icon-qrkod" alt="Icon qrkod" src="icon-qrkod-1.svg" />
+          <div class="icon-qrkod-wrapper">
+            <img class="icon-qrkod" alt="Icon qrkod" src="icon-qrkod-1.svg" />
           </div>
-          <div className="overlap-2">
-            <div className="text-wrapper-2">Kimlik/Vergi Numarası</div>
-            <Frame className="vuesax-bold-frame" />
-            <img className="img" alt="Line" src="line-3.svg" />
+          <div class="overlap-2">
+            <div class="text-wrapper-2">Kimlik/Vergi Numarası</div>
+            <Frame class="vuesax-bold-frame" />
+            <img class="img" alt="Line" src="line-3.svg" />
           </div>
-          <div className="overlap-3">
-            <div className="text-wrapper-2">Şifre</div>
-            <img className="img" alt="Line" src="line-4.svg" />
-            <Lock className="vuesax-bold-lock" />
-            <div className="text-wrapper-3">Unuttum</div>
+          <div class="overlap-3">
+            <div class="text-wrapper-2">Şifre</div>
+            <img class="img" alt="Line" src="line-4.svg" />
+            <Lock class="vuesax-bold-lock" />
+            <div class="text-wrapper-3">Unuttum</div>
           </div>
-          <div className="text-wrapper-4">Yeni Kullanıcı Oluştur</div>
-          <img className="line-2" alt="Line" src="line-5.svg" />
-          <div className="text-wrapper-5">Bireysel İnternet Bankacılığına Hoşgeldiniz</div>
-          <p className="burgan-bank-nternet">
-            <span className="span">
+          <div class="text-wrapper-4">Yeni Kullanıcı Oluştur</div>
+          <img class="line-2" alt="Line" src="line-5.svg" />
+          <div class="text-wrapper-5">Bireysel İnternet Bankacılığına Hoşgeldiniz</div>
+          <p class="burgan-bank-nternet">
+            <span class="span">
               Burgan Bank İnternet Bankacılığı ortamında donanım, yazılım, network ve erişim platformları günümüz
               teknolojisine uygun olarak kurulmuş olup güncel tutulmaktadır.
               <br />
@@ -53,24 +47,22 @@ export function Login() {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <span className="text-wrapper-6">Daha detaylı bilgi almak için tıklayın...</span>
+              <span class="text-wrapper-6">Daha detaylı bilgi almak için tıklayın...</span>
             </a>
           </p>
-          <div className="text-wrapper-7">İnternet Bankacılığı Güvenlik</div>
-          <SecurityUser className="vuesax-bold-security" />
+          <div class="text-wrapper-7">İnternet Bankacılığı Güvenlik</div>
+          <SecurityUser class="vuesax-bold-security" />
         </div>
-        <footer className="footer">
-          <h1 className="h-1">0 850 222 8222</h1>
-          <div className="text-wrapper-8">7/24 İletişim Merkezi</div>
-          <div className="text-wrapper-9">Müşteri Ol</div>
-          <div className="text-wrapper-10">Bize Ulaşın</div>
-          <img className="line-3" alt="Line" src="line-1.svg" />
+        <footer class="footer">
+          <h1 class="h-1">0 850 222 8222</h1>
+          <div class="text-wrapper-8">7/24 İletişim Merkezi</div>
+          <div class="text-wrapper-9">Müşteri Ol</div>
+          <div class="text-wrapper-10">Bize Ulaşın</div>
+          <img class="line-3" alt="Line" src="line-1.svg" />
         </footer>
-        <header className="header">
-          <div className="text-wrapper-11">English</div>
-          <img className="group" alt="Group" src="group.png" />
+        <header class="header">
+          <div class="text-wrapper-11">English</div>
+          <img class="group" alt="Group" src="group.png" />
         </header>
       </div>
     </div>
-  );
-};
